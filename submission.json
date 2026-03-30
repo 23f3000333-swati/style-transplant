@@ -1,0 +1,9 @@
+{
+  "prompt": "Bauhaus 1923 poster, minimalist. A 'Neural Network' as a flat 2D geometric grid. Three vertical layers of primary-colored circles (Red, Blue, Yellow). Intersecting thin, sharp black diagonal lines. Background is aged off-white paper. Balanced asymmetry. NO 3D shading, NO gradients, NO digital glows. Only primary colors and black. Authentic lithograph texture.",
+  "model": "DALL-E 3 (via Microsoft Designer)",
+  "concept": "Neural Network",
+  "tradition_name": "Bauhaus graphic design",
+  "tradition_period": "1919–1933",
+  "tradition_approach": "Targeted primary colors (RYB), geometric primitives, and flat 2D compositions. Mapped neural layers to a vertical geometric grid, strictly following the 'form follows function' rule while avoiding modern digital gradients.",
+  "publish_email": true
+}
